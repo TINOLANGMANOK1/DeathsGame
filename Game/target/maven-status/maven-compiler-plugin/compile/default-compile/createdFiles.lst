@@ -1,0 +1,8 @@
+com\mycompany\game\Entity.class
+com\mycompany\game\Arena.class
+com\mycompany\game\Monster.class
+com\mycompany\game\Skill.class
+com\mycompany\game\HeroType.class
+com\mycompany\game\Game.class
+com\mycompany\game\Hero.class
+com\mycompany\game\Dungeon.class
